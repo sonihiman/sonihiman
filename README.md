@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on embedded systems for train control
+- 🌱 I’m currently learning Data science.
+- 👯 I’m looking to collaborate on python projects.
 
 <!--
 **sonihiman/sonihiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
